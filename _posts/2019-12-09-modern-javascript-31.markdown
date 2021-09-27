@@ -3,7 +3,6 @@ layout: post
 title: '알게뭐야?'
 subtitle: 'type script 재미따~'
 categories: Daily
-# tags: javascript
 comments: true
 ---
 
