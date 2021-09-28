@@ -13,16 +13,16 @@ url:                 https://eheeeun.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             중구난방 일단 해봐
+tagline:             생강캐보는 블로그
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  정신차리고 공부해볼게요.
+  중구난방 일단 해봐
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
-  name:              aiden min
+  name:              hee eun
   email:             77dldl@naver.com
 
 # Fallback image and color
