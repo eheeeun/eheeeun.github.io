@@ -15,8 +15,8 @@ heeeun:
     src:             /assets/img/profile.png
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /assets/img/me.jpeg
-      2x:            /assets/img/me.jpeg
+      1x:            /assets/img/profile.png
+      2x:            /assets/img/profile.png
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
