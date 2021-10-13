@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: post
 title: 'React Hooks를 알아보자'
 subtitle: '리액트 훅스를 알아보자'
@@ -6,7 +6,7 @@ categories: devlog
 tags: javascript
 comments: true
 ---
-
+<!--
 # React Hook
 
 `함수 컴포넌트`에서 `React Lifecycle`을 `연동(hook into)`하는 함수. 이미 짜놓은 클래스 컴포넌트를 함수로 바꾸는건 권장되지 않는다. 리액트는 클래스 컴포넌트의 개발을 멈출 계획이 없다.
