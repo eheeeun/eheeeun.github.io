@@ -2,7 +2,7 @@
 layout: post
 title: '준비ing'
 subtitle: '정신차리고 공부를 해보하요 꾸준히하기!!'
-categories: log
+categories: Log
 tags: ''
 comments: true
 ---
