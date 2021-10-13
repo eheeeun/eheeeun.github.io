@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Daily
-slug: daily
+title: Log
+slug: log
 menu: true
 submenu: false
 order: 4
 description: >
-  일상일까요?
+  로그를 찍는 습관
 ---
