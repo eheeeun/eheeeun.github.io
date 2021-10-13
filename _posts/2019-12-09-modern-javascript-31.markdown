@@ -1,19 +1,21 @@
-<!-- ---
+---
 layout: post
-title: '알게뭐야?'
-subtitle: 'type script 재미따~'
-categories: daily
+title: '준비 중'
+subtitle: '자주는 못 올 터지만 열심히 해보기'
+categories: log
 comments: true
 ---
 
-> 이 글은 번역 및 정리 글입니다.   
+준비중!
+
+<!-- > 이 글은 번역 및 정리 글입니다.   
 > 출처: javascript.info
 
 # 문자열
 
 자바스크립트에서 텍스트 데이터는 문자열로 저장된다. 단일 문자에 대한 별도의 타입이 존재하지는 않는다.
 
-문자열의 내부 형식은 `UTF-16`이며 페이지 인코딩과는 관련이 없다.
+문자열의 내부 형식은 `UTF-16`이며 페이지 인코딩과는 관련이 없다. -->
 
 <!-- ## 따옴표
 
@@ -571,4 +573,4 @@ function extractCurrencyValue(str) {
 }
 ```
 
-</details> --> -->
+</details> --> 
