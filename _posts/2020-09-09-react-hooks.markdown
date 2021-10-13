@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'React Hooks를 알아보자'
-subtitle: '리액트 훅스를 알아보자'
-categories: devlog
-tags: javascript
+title: '준비ing'
+subtitle: '정신차리고 공부를 해보하요 꾸준히하기!!'
+categories: log
+tags: ''
 comments: true
 ---
 <!--
