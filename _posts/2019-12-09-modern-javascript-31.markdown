@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: '알게뭐야?'
 subtitle: 'type script 재미따~'
@@ -15,7 +15,7 @@ comments: true
 
 문자열의 내부 형식은 `UTF-16`이며 페이지 인코딩과는 관련이 없다.
 
-## 따옴표
+<!-- ## 따옴표
 
 따옴표는 작은 따옴표, 큰 따옴표, 역 따옴표가 있ㅆ다.
 
@@ -571,4 +571,4 @@ function extractCurrencyValue(str) {
 }
 ```
 
-</details>
+</details> --> -->
